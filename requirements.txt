@@ -1,0 +1,6 @@
+PyQt6
+opencv-python
+numpy
+ultralytics
+gpiod
+hailo_platform
