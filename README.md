@@ -134,4 +134,6 @@ Or use the provided launch script:
 
 ## License
 
-This project is proprietary. All rights reserved.
+This project is licensed under the [GNU AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.html) to comply with the [Ultralytics YOLO license](https://github.com/ultralytics/ultralytics/blob/main/LICENSE).
+
+This project is intended for **educational and non-commercial use only**.
